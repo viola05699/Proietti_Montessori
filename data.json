@@ -1,0 +1,383 @@
+{
+  "itinerari": [
+    {
+      "id": "Montessori_scrittrice",
+      "nome": "Roma: la città dei bambini",
+      "sottotitolo": "Il metodo Montessori",
+      "personaggio": {
+        "nome": "Maria Montessori",
+        "anni": "Chiaravalle, 31 agosto 1870 – Noordwijk, 6 maggio 1952",
+        "professione": "Scrittrice ed educatrice",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Maria Montessori è stata la pioniera ribelle che ha scardinato i pregiudizi del suo tempo, diventando una delle prime donne medico in Italia e trasformando l'istruzione in una missione di libertà.",
+        "immagine": "maria-montessori.webp",
+        "opere_correlate": [
+          "La scoperta del bambino (1950)",
+          "La mente del bambino (1952)",
+          "Il segreto dell'infanzia (1938) e Il metodo della pedagogia scientifica (1909)"
+        ]
+      },
+      "tema": "Il Codice della Libertà: Come Maria Montessori ha sprigionato il genio nascosto in ogni bambino.",
+      "categoria": "Educazione e Cultura",
+      "durata_totale_ore": 9,
+      "difficolta": "media",
+      "immagine_copertina": "mappa_immagine.png",
+      "distanza_totale_km": 9 ,
+      "periodo_consigliato": "Primavera/Autunno (temperature miti)",
+      "stagione_migliore": ["marzo", "aprile", "maggio", "settembre", "ottobre"],
+      "descrizione": "Un percorso per scoprire che Roma non è solo marmo e storia antica, ma la culla di una rivoluzione educativa, avviata da Montessori, che parla ancora al futuro.",
+      "note_logistiche": "Iniziare all'alba richiede sveglia anticipata. Portare acqua, cappello e scarpe comode. Prevede pause caffè tra le tappe e una pausa pic-nic nella meravigliosa villa Paganini. è consigliabie inoltre andare durante i giorni infrasettimnale, per godere della vera essenza del sapere di Montessori, in particolare per vedere la prima tappa dell'itinerario, l'università della Sapienza, piena di vita e conoscenza proprio come ai tempi della nostra protagonista.",
+      "accessibilita": "Tutte le tappe sono pensate per essere raggiunte a piedi, ma si può usufruire anche dei mezzi pubblici come tram, bus o metro B",
+      "costo_stimato": "Gratuito",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "Università_Sapienza",
+          "orario_consigliato": "07:30",
+          "momento_giornata": "mattino presto",
+          "durata_visita_min": 45,
+          "coordinate": [41.9062, 12.5150],
+          "nome": "Università di Roma",
+          "descrizione_breve": "Un suggestivo risveglio tra le architetture razionaliste, dove il silenzio dell'alba trasforma la Città Universitaria in un palcoscenico monumentale di marmo e sapere.",
+          "indicazioni_arrivo": "Raggiungibile con 10 minuti a piedi dalla stazione dei treni di Roma Termini, l'entrata nion può passare inosservata. Inoltre basterà seguire la folla di ragazzi che da lì a breve inizieranno le lezioni.",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "I. La nascita della mente",
+              "brano_completo": "Lionheart",
+              "compositore": "C.K.Martin",
+              "durata_sec": 230,
+              "tonalita": "La minore",
+              "organico": "Piano, Orchestra (Archi, Woodwinds)",
+              "anno_composizione": 2021,
+              "descrizione_musicale": "Inizialmente intima e riflessiva (grazie al piano), per poi aprirsi in un arrangiamento orchestrale epico e 'uplifting' con archi e legni.",
+              "spotify_url": "",
+              "youtube_url": "https://www.youtube.com/watch?v=3_6nLxKtk14&list=RD3_6nLxKtk14&start_radio=1",
+              "note_ascolto": "Ascoltare guardando la statua di Minerva,la dea della saggezza e della conoscenza, è raffigurata in posa solenne, sottolineando il legame tra l'istituzione accademica e la sapienza classica.."
+            },
+            "letteratura": {
+              "citazione": "La gioia di apprendere è simile alla luce del mattino, che rende visibili le cose che prima erano immerse nell'ombra.",
+              "autore": "Maria Montessori",
+              "opera": "La scoperta del bambino",
+              "anno": 1948,
+              "contesto": "La Montessori dedica interi capitoli al concetto di 'autoeducazione'. È qui che spiega che il maestro non deve 'riempire' il bambino, ma deve osservare il suo risveglio naturale.."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "dorata e radente, con ombre lunghe",
+              "suoni_ambiente": [
+                "l'acqua della Minerva, canto degli uccelli",
+                "Il riverbero dei passi sui lastricati di marmo e pietra"
+              ],
+              "temperatura_stimata": "15-18°C",
+              "affollamento": "minimo ma nel giro di una mezz'ora si riempirà di studenti.",
+              "consiglio_fotografico": "L'iconica statua di Minerva sarà illuminata dalla luce fioca del sole.",
+              "emozione_target": "Contemplazione e ispirazione"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Razionalismo italiano",
+              "architetti": ["Marcello Piacentini"],
+              "anno_costruzione": "1932-1935",
+              "committente": "Stato Italiano, sotto il governo di Benito Mussolini.",
+              "descrizione": "Gli edifici sono caratterizzati da linee rette, volumi puliti e l'assenza di decorazioni superflue. Tutto è pensato per essere funzionale allo studio e alla ricerca, un concetto che risuona molto con l''ambiente preparato' di Maria Montessori."
+            }
+          },
+          "storia": "Il regime fascista voleva centralizzare le varie facoltà della Sapienza, che all'epoca erano sparse in palazzi angusti nel centro storico di Roma (come la sede di Sant'Ivo). L'obiettivo era creare un polo moderno che mostrasse al mondo l'efficienza e la grandezza della cultura italiana.",
+          "curiosita": "La 'Maledizione' dello sguardo, esiste la superstizione per cui chi guarda la Minerva negli occhi non si laurea.",
+          "metadata": {
+            "accessibilita": "ingresso gratuito, chiusa la Domenica",
+            "orari_standard": "07:00-20:00 ",
+            "servizi": ["toilette", "biblioteca", "caffetteria e mensa"]
+          },
+          "artisti_ospitati": ["D'Annunzio", "Ungaretti", "Fermi", "Marconi"]
+        },
+        {
+          "numero": 2,
+          "poi_id": "Largo_Eduardo_Talamo",
+          "orario_consigliato": "09:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 60,
+          "coordinate": [41.8966, 12.5156],
+          "nome": "Largo Eduardo Talamo",
+          "descrizione_breve": "Largo Edoardo Talamo è il cuore pulsante del quartiere San Lorenzo dove, nel 1907, Maria Montessori aprì la prima Casa dei Bambini al civico 58 di via dei Marsi.",
+          "indicazioni_arrivo": "Dalla Sapienza: prendere l'autobus 19L e scendere alla fermata Scalo San Lorenzo, oppure proseguire per poco più di un chilometro a piedi impiegandio circa 18 minuti.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "18 min",
+            "autobus": "12 min + attese",
+            "distanza_km": 1.3
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "II. San lorenzo e la sua rinascita",
+              "brano_completo": "San Lorenzo",
+              "compositore": "Francesco De Gregori",
+              "durata_sec": 419,
+              "tonalita": "Do maggiore",
+              "descrizione_musicale": "La voce di De Gregori, quasi sussurrata, si appoggia sul silenzio degli spazi tra una nota e l'altra, creando un'atmosfera di rispetto e memoria.",
+              "strumenti_protagonisti": ["pianoforte", "voce"],
+              "carattere": "Una tonalità 'bianca' e pura, proprio come la chiarezza del metodo Montessori.",
+              "spotify_url": "https://open.spotify.com/intl-it/track/5BTRac3NbGSjWuYwuxyzbM",
+              "youtube_url": "https://www.youtube.com/watch?v=xmtvFnAI-r8&list=RDxmtvFnAI-r8&start_radio=1",
+              "note_ascolto": "Ascoltala mentre osservi i palazzi d'epoca vicino a Largo Talamo; la musica ti aiuterà a percepire San Lorenzo non solo come una zona universitaria, ma come un luogo di resilienza e rinascita."
+            },
+            "letteratura": {
+              "citazione": "E il Papa nel fango a pregare, e il quartiere che non vuole morire. San Lorenzo è una ferita aperta che sa ancora di pane e di sole.",
+              "autore": "Francesco De Gregori",
+              "opera": "canzone San Lorenzo",
+              "anno": 1982,
+              "contesto": "Il verso più iconico che descrive il momento in cui la storia ha ferito il quartiere, ma la sua identità è rimasta intatta."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "brillante e nitida",
+              "suoni_ambiente": [
+                "Ferraglia dello Scalo (Il suono del lavoro)",
+                "passaggio dei tram"
+              ],
+              "temperatura_stimata": "18-20°C",
+              "affollamento": "moderato(la maggior parte delle persone è a lavoro)",
+              "consiglio_fotografico": "Cerca di inquadrare il Sepolcro di Largo Talamo (la rovina romana) mentre sullo sfondo passa un tram moderno (linea 3 o 19).",
+              "emozione_target": "rispetto solenne"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Il sepolcro romano di età imperiale",
+              "scultore": "tomba di famiglia",
+              "anno_costruzione": "2° secolo d.C.",
+              "committente": "Famiglia Talamo",
+              "materiali": "nucleo im clacestruzzo e rivestimento in marmo",
+              "altezza_m": 5,
+              "descrizione": "Il monumento appartiene alla tipologia dei sepolcri a torre. È diviso idealmente in due parti: il basamento, per sollevare la tomba dal livello della strada, e le celle superiori che ospitavano le ceneri dei defunti."
+            }
+          },
+          "storia": "Quando l'ingegnere Edoardo Talamo iniziò a costruire il quartiere operaio di San Lorenzo, il sepolcro riemerse dagli scavi. Invece di abbatterlo, decisero di 'abbracciarlo' con la nuova piazza.",
+          "curiosita": "All'alba, questo scheletro' di pietra è la prima cosa che si colora di rosa nel quartiere.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["bar circostanti", "metro nelle vicinanze"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "Casa_dei_bambini",
+          "orario_consigliato": "10:15",
+          "momento_giornata": "mattina inoltrata",
+          "durata_visita_min": 90,
+          "coordinate": [41.8990423, 12.513709],
+          "nome": "Casa dei bambini",
+          "descrizione_breve": "La prima Casa dei Bambini, non era solo una scuola, ma un esperimento di rinascita sociale nel cuore degradato di San Lorenzo.",
+          "indicazioni_arrivo": "Prosegui a piedi per 300 metri da Largo Eduardo Talamo",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "5 min",
+            "distanza_km": 0.3
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "III. Casa dei bambini a San Lorenzo",
+              "brano_completo": "I bambini fanno ooh!",
+              "compositore": "Giuseppe Povia",
+              "durata_sec": 334,
+              "tonalita": "Sol maggiore",
+              "descrizione_musicale": "È una scala luminosa, priva di tensioni oscure, che riflette perfettamente l'ambiente chiaro e ridente che Maria Montessori voleva per i suoi piccoli alunni a San Lorenzo.",
+              "citazioni_famose": "Il testo dice 'perché tutto è nuovo, tutto è una sorpresa': è esattamente l'emozione che Maria Montessori provò nel 1907 quando capì che, dando fiducia ai bambini di San Lorenzo, stava scoprendo un nuovo modo di intendere l'essere umano.",
+              "carattere": "Naturalezza e serenità",
+              "spotify_url": "https://open.spotify.com/intl-it/track/2OEmJmOt0TAaP7yNRtKgs3",
+              "youtube_url": "https://www.youtube.com/watch?v=P0gj9VifVxg&list=RDP0gj9VifVxg&start_radio=1",
+              "note_ascolto": "L'onomatopea 'Ooh' è un'esclamazione di stupore puro, per la Montessori, lo stupore è la molla dell'apprendimento."
+            },
+            "letteratura": {
+              "citazione": "Se vogliamo raggiungere la vera pace in questo mondo e se vogliamo portare avanti una vera guerra contro la guerra, dobbiamo iniziare con i bambini.",
+              "autore": "Mahatma Gandhi",
+              "opera": "Discorso alla Montessori Training College di Londra",
+              "anno": 1931,
+              "contesto": "Gandhi incontrò Maria Montessori e rimase folgorato dalla sua capacità di generare pace partendo dai più piccoli."
+            },
+            "cinema": {
+              "film": "Una vita per i bambini (Miniserie TV)",
+              "regista": "Diretta da Gianluca Maria Tavarelli e interpretata da Paola Cortellesi.",
+              "anno": 2007,
+              "scena": "misura di bambino",
+              "descrizione": "C'è una scena bellissima in cui lei fa costruire i famosi mobili a 'misura di bambino' tra lo scetticismo degli operai dello scalo ferroviario."
+            },
+            "atmosfera": {
+              "momento": "tarda mattinata",
+              "luce": "La Montessori scelse ampie finestre affacciate sui cortili. All'alba, la luce che entra in via dei Marsi è una luce 'di taglio', che accende i colori dei materiali didattici (il rosso delle aste, il blu delle lettere).",
+              "suoni_ambiente": [
+                "silenzio e suoni delicati"
+              ],
+              "temperatura_stimata": "20-24°C (mite)",
+              "affollamento": "nella media",
+              "consiglio_fotografico": "Fotografa da vicino le incisioni sulla pietra. La luce forte di mezzogiorno entra nei solchi delle lettere creando ombre nere che rendono il testo leggibilissimo e solenne.",
+              "emozione_target": "calma, stupore e ingenuità"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "primo novecento",
+              "architetto": "Edoardo Talamo (L'ingegnere Sociale)",
+              "scultori": "",
+              "anno_costruzione": "1904-1906",
+              "committente": "Istituto dei Beni Stabili.",
+              "dimensioni": "100-150 metri quadrati, con un altezza circa di 4 metri a stanza",
+              "acqua_fonte": "L'Acquedotto Marcia",
+              "descrizione": "Non è un monumento isolato, ma un organismo vivente inserito nel tessuto popolare di San Lorenzo."
+            }
+          },
+          "storia": "All'inizio del 1900, San Lorenzo era una ferita aperta di Roma. Era un quartiere di immigrati, operai e disperati, dove regnavano analfabetismo, igiene precaria e abbandono. Grazie alla collaborazione di Talamo e della Montessori, in poco tempo i bambini 'selvaggi' divennero piccoli cittadini colti, ordinati e autonomi.",
+          "curiosita": "Maria scelse come direttrice la figlia del portiere del palazzo!",
+          "leggende": [
+            "Si racconta che, nei primi mesi del 1907, tra le donne di San Lorenzo si fosse sparsa una voce di timore e meraviglia. Vedendo i loro figli, prima urlanti e selvaggi, tornare a casa composti, silenziosi e capaci di apparecchiare la tavola con estrema grazia, alcune madri pensarono che la Montessori fosse una sorta di strega buona, capace di trasformare la natura dei bambini."
+          ],
+          "metadata": {
+            "accessibilita": "Essendo un istituto scolastico, l'accesso non è libero durante l'orario delle lezioni per garantire la privacy e la sicurezza dei bambini. Tuttavia, ci sono diverse opzioni come l'Open Day e visite su prenotazione",
+            "orari_standard": "Da lunedì al venerdì dalle 08:00 alle 16:30",
+            "servizi": "Spostandosi di poco sono presenti tutti i servizi, in quanto San Lorenzo è un quartiere molto grande",
+            "warning": "Fare silenzio per portare rispetto all'educazione dei bambini nella scuola."
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "Micronido_montessori",
+          "orario_consigliato": "12:30",
+          "momento_giornata": "ora di pranzo",
+          "durata_visita_min": 120,
+          "coordinate": [41.9175, 12.5089],
+          "nome": "Micronido Montessori e Villa Paganini",
+          "descrizione_breve": "La scuola si trova immersa nel verde del parco di Villa Paganini. Le attività didattiche godono di un rapporto simbiotico con la natura, elemento centrale della pedagogia Montessori.",
+          "indicazioni_arrivo": "Da San Lorenzo cammina 5 min per riandare alla fermatae prendere questa volta l'autobus 179L e scendi a Viale Regina margherita; oppure fai una passeggiata nei quartieri romani di circa 40 minuti.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "40 min",
+            "metro_piedi": "27 min",
+            "distanza_km": 2.7
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "IV. Micronido e Villa Paganini",
+              "brano_completo": "La dolce vita",
+              "compositore": "Nino Rota",
+              "durata_sec": 630,
+              "tonalita": "Do maggiore",
+              "descrizione_musicale": "Quel ritmo di swing trasforma il tuo pranzo sul prato in una scena cinematografica. Non è più solo un panino: diventa un momento di mondanità romana anni '60, dove l'architettura dei padiglioni in legno della villa sembra quasi un set felliniano.",
+              "carattere": "Intimo e armonioso",
+              "citazioni_famose": "Non c'è descrizione, né immagine in nessun libro che possa sostituire la visione reale degli alberi in un bosco e di tutta la vita che si svolge intorno ad essi.",
+              "spotify_url": "https://open.spotify.com/track/example",
+              "youtube_url": "https://www.youtube.com/watch?v=Kda_OwFqiDw&list=PL7-L7BJ_Ecj3Anc_hz8mIp4ydPeRUxTGf&index=9",
+              "note_ascolto": "Usa delle cuffie se vuoi isolarti in una bolla felliniana, ma se puoi, tieni il volume tale da sentire in sottofondo anche lo scorrere dell'acqua o le voci lontane: è in quel mix tra musica e realtà che si compie la vera magia della Dolce Vita romana."
+            },
+            "letteratura": {
+              "citazione": "Nulla è più bello di un giardino romano quando il sole di mezzogiorno filtra attraverso i rami dei pini, creando disegni d'ombra sul prato.",
+              "autore": "Johann Wolfgang von Goethe",
+              "opera": "Viaggio in Italia",
+              "anno": 1786,
+              "contesto": "Goethe era un osservatore quasi scientifico della luce. Se ti trovi a Villa Paganini a mezzogiorno, stai vedendo esattamente quella 'luce cruda e bellissima' che lui descriveva nei suoi diari."
+            },
+            "atmosfera": {
+              "momento": "Mezzogiorno",
+              "luce": "dorata quasi accecante che contrasta con le poche ombre degli alberi",
+              "suoni_ambiente": [
+                "soffio profondo",
+                "Grida allegre",
+                "no scroscio leggero, quasi ipnotico, della fontana"
+              ],
+              "temperatura_stimata": "20-24°C (temperature elevate)",
+              "affollamento": "basso (area meno turistica)",
+              "vista_panoramica": "Dai cancelli e attraverso le recinzioni, lo sguardo si posa sui raffinati villini liberty e sui palazzi signorili degli anni '20 e '30 che circondano il parco.",
+              "consiglio_fotografico": "Il verde salvia dei padiglioni si sposa benissimo con il rosso di una mela o il giallo della paglia( che puoi trovare nel tuo cestino da pic-nic). Cerca questi accostamenti cromatici.",
+              "emozione_target": "Un ritorno a casa. La musica de La Dolce Vita aggiunge uno strato di 'saudade' romana."
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Neoclassicismo tardo e il Razionalismo organico",
+              "architetto": "Roberto Paganini",
+              "anno_costruzione": "1860",
+              "committente": "Senatore Roberto Paganini",
+              "descrizione": "Situata nel cuore del Quartiere Trieste a Roma, Villa Paganini è un raffinato giardino storico di circa 2 ettari, nato come parte della settecentesca Villa Alberoni e trasformato in residenza nobiliare dal Senatore Roberto Paganini a metà Ottocento."
+            }
+          },
+          "storia": "Villa Medici fu acquistata dal cardinale Ferdinando de' Medici nel 1576. Dal 1803 ospita l'Accademia di Francia, prestigiosa istituzione che accoglie artisti in residenza. Molti compositori francesi hanno soggiornato qui, inclusi Berlioz e Debussy.",
+          "curiosita": "I famosi padiglioni verdi della scuola Montessori non sono nati come aule scolastiche. Erano case prefabbricate d'emergenza in legno, spedite dalla Croce Rossa Svizzera su vagoni ferroviari nel 1949 per aiutare l'Italia del dopoguerra.",
+          "connessione_respighi": "Respighi frequentava i salotti musicali dell'Accademia. La scelta di chiudere il poema sinfonico proprio qui non è casuale: rappresenta il ritorno alla quiete dopo il frastuono della città.",
+          "metadata": {
+            "accessibilita": "gratuito",
+            "orari_standard": "07:00/18:00",
+            "orari_speciali_tramonto": "Verificare aperture serali estive",
+            "servizi": ["area giochi", "punti ristoro"]
+          }
+        },
+        {
+          "numero": 5,
+          "poi_id": "Biblioteca_ONM",
+          "orario_consigliato": "15:30",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 60,
+          "coordinate": [41.8887, 12.4727],
+          "nome": "Biblioteca Opera Nazionale Montessori",
+          "descrizione_breve": "Custodisce l'intero corpus delle opere di Maria Montessori, incluse le prime edizioni rarissime e i documenti d'archivio che tracciano la storia del metodo nel mondo.",
+          "indicazioni_arrivo": "Da Villa Paganini prendi l'autobus 60 da Nomentana a Piazza Venezia e da lì prendi il tram 8 fino a Belli. In sostituzione ai mezzi pubblici, che hanno un costo di circa 1,50 euro a biglietto si può proseguire a piedi per un ora passando per le zone più movimentate di Roma, come Trastavere e Fontana di Trevi.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "70 min",
+            "metro_piedi": "40 min",
+            "distanza_km": 5.0
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "IV. Biblioteca ONM",
+              "brano_completo": "Trastevere",
+              "compositore": "Maneskin",
+              "durata_sec": 312,
+              "tonalita": "Mi minore",
+              "descrizione_musicale": "Rappresenta il lato oscuro e malinconico del successo, ambientato idealmente tra i vicoli del quartiere dove la band ha passato infinite serate.",
+              "carattere": "Nostalgico e malinconico",
+              "citazioni_famose": "Damiano ha descritto il brano come uno dei più personali. Parla di un 'patto col diavolo' fatto al delta del Tevere: “I’ll give you the talent, you can give me your life”.",
+              "spotify_url": "https://open.spotify.com/intl-it/track/3wy4se12ucUNAfRwZpmDuz",
+              "youtube_url": "https://www.youtube.com/watch?v=IGAnd_WnpTk&list=RDIGAnd_WnpTk&start_radio=1",
+              "note_ascolto": "Damiano inizia quasi sussurrando, con una voce stanca, tipica di chi ha camminato tutta la notte per Trastevere. Poi, verso il ritornello, la voce si rompe e diventa roca."
+            },
+              "temperatura_stimata": "18-20 (temperature medie)",
+              "affollamento": "abbastanza alto, specialmemte nei locali inizia l'orario per gli aperitivi",
+              "vista_panoramica": "Vedi tutto. Dal Cupolone di San Pietro all'Altare della Patria, fino alle vette dell'Appennino in lontananza.",
+              "consiglio_fotografico": "Vai su Ponte Sisto o scendi sulle banchine del Tevere sotto il ponte. Fotografa il riflesso delle luci del lungotevere sull'acqua scura.",
+              "emozione_target": "Libertà e la sensazione di appartenere a qualcosa di antico"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Medievale",
+              "architetto": "Il progetto dell'intero complesso si deve a Filippo Raguzzini, uno dei massimi esponenti del Barocchetto Romano.",
+              "anno_costruzione": "1950 fu inaugurata",
+              "committente": "ONM",
+              "descrizione": "È il centro di documentazione più importante al mondo dedicato a Maria Montessori. Non è solo una raccolta di libri, ma la memoria vivente di una rivoluzione pedagogica."
+            },
+          "storia": "L'Opera Nazionale Montessori venne fondata nel 1924 con lo scopo di coordinare e diffondere il metodo. In questo periodo iniziò la prima raccolta di materiali e volumi necessari alla formazione degli insegnanti.",
+          "curiosita": "Durante il periodo fascista molti dei libri che oggi vedi esposti in biblioteca furono bruciati o censurati",
+          "connessione_respighi": "Oggi la biblioteca conserva il patrimonio intellettuale nato dalle osservazioni di Maria Montessori sul 'segreto dell'infanzia' e sulla 'mente del bambino'",
+          "metadata": {
+            "accessibilita": "gratuita ma occore la prenotazione online",
+            "orari_standard": "Lunedì, Mercoledì, Venerdì: 09:30 / 13:30, Martedì, Giovedì: 14:00 / 17:00 ",
+            "orari_speciali_tramonto": "Affacciarsi sul Tevere per osservare il calare del sole",
+            "servizi": []
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "wxw~FwikkA~z@wBgNxJkrB`]~rDfaF",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (10 km a piedi)",
+        "Cappello e crema solare per mezzogiorno",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Prenotare in anticipo la biblioteca a Trastevere",
+        "Portare un telo da stendere a Villa Paganini per fare un pic-nic all'aria aperta nella natura, per assaporare a fondo gli ideali della Montessori"
+      ],
+      "migliore_periodo_anno": "Marzo-Maggio o Settembre-Ottobre (luce migliore, temperature miti)",
+      "sconsigliato": ["Piena estate (troppo caldo a mezzogiorno)", "Gennaio-Febbraio (alba troppo tarda)"],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "Crema solare",
+        "Snack energetici",
+        "Telo per pic-nic",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
